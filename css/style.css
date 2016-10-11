@@ -78,6 +78,7 @@ p > button:hover {
 
 /* Task list */
 li {
+  display: inline-flex;
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
